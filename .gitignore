@@ -1,0 +1,6 @@
+**/
+*.*
+!src/**
+!doc/**
+!.gitignore
+!pom.xml
